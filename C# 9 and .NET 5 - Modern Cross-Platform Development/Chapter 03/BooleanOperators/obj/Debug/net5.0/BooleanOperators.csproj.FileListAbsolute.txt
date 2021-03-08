@@ -1,0 +1,16 @@
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BooleanOperators\bin\Debug\net5.0\BooleanOperators.exe
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BooleanOperators\bin\Debug\net5.0\BooleanOperators.deps.json
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BooleanOperators\bin\Debug\net5.0\BooleanOperators.runtimeconfig.json
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BooleanOperators\bin\Debug\net5.0\BooleanOperators.runtimeconfig.dev.json
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BooleanOperators\bin\Debug\net5.0\BooleanOperators.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BooleanOperators\bin\Debug\net5.0\ref\BooleanOperators.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BooleanOperators\bin\Debug\net5.0\BooleanOperators.pdb
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.csprojAssemblyReference.cache
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.AssemblyInfoInputs.cache
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.AssemblyInfo.cs
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BooleanOperators\obj\Debug\net5.0\ref\BooleanOperators.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.pdb
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BooleanOperators\obj\Debug\net5.0\BooleanOperators.genruntimeconfig.cache

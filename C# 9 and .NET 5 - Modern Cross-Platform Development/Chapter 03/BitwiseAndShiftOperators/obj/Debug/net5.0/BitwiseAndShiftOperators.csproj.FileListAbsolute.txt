@@ -1,0 +1,16 @@
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BitwiseAndShiftOperators\bin\Debug\net5.0\BitwiseAndShiftOperators.exe
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BitwiseAndShiftOperators\bin\Debug\net5.0\BitwiseAndShiftOperators.deps.json
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BitwiseAndShiftOperators\bin\Debug\net5.0\BitwiseAndShiftOperators.runtimeconfig.json
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BitwiseAndShiftOperators\bin\Debug\net5.0\BitwiseAndShiftOperators.runtimeconfig.dev.json
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BitwiseAndShiftOperators\bin\Debug\net5.0\BitwiseAndShiftOperators.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BitwiseAndShiftOperators\bin\Debug\net5.0\ref\BitwiseAndShiftOperators.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BitwiseAndShiftOperators\bin\Debug\net5.0\BitwiseAndShiftOperators.pdb
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.csprojAssemblyReference.cache
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.AssemblyInfoInputs.cache
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.AssemblyInfo.cs
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BitwiseAndShiftOperators\obj\Debug\net5.0\ref\BitwiseAndShiftOperators.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.pdb
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\BitwiseAndShiftOperators\obj\Debug\net5.0\BitwiseAndShiftOperators.genruntimeconfig.cache

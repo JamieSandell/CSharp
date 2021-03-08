@@ -1,0 +1,16 @@
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.exe
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.deps.json
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.runtimeconfig.json
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.runtimeconfig.dev.json
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\HandlingExceptions\bin\Debug\net5.0\ref\HandlingExceptions.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\HandlingExceptions\bin\Debug\net5.0\HandlingExceptions.pdb
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.csprojAssemblyReference.cache
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.AssemblyInfoInputs.cache
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.AssemblyInfo.cs
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\HandlingExceptions\obj\Debug\net5.0\ref\HandlingExceptions.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.pdb
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\HandlingExceptions\obj\Debug\net5.0\HandlingExceptions.genruntimeconfig.cache

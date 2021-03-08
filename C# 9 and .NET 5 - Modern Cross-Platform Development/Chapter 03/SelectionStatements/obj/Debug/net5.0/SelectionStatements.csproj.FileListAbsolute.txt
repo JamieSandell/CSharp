@@ -1,0 +1,16 @@
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\SelectionStatements\bin\Debug\net5.0\SelectionStatements.exe
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\SelectionStatements\bin\Debug\net5.0\SelectionStatements.deps.json
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\SelectionStatements\bin\Debug\net5.0\SelectionStatements.runtimeconfig.json
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\SelectionStatements\bin\Debug\net5.0\SelectionStatements.runtimeconfig.dev.json
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\SelectionStatements\bin\Debug\net5.0\SelectionStatements.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\SelectionStatements\bin\Debug\net5.0\ref\SelectionStatements.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\SelectionStatements\bin\Debug\net5.0\SelectionStatements.pdb
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.csprojAssemblyReference.cache
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.AssemblyInfoInputs.cache
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.AssemblyInfo.cs
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\SelectionStatements\obj\Debug\net5.0\ref\SelectionStatements.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.pdb
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 03\SelectionStatements\obj\Debug\net5.0\SelectionStatements.genruntimeconfig.cache

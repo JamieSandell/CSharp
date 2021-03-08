@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Exercise_2._2___Practise_number_sizes_and_ranges</RootNamespace>
+  </PropertyGroup>
+
+</Project>

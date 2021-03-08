@@ -1,0 +1,16 @@
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter01\01 - HelloCS\bin\Debug\net5.0\01 - HelloCS.exe
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter01\01 - HelloCS\bin\Debug\net5.0\01 - HelloCS.deps.json
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter01\01 - HelloCS\bin\Debug\net5.0\01 - HelloCS.runtimeconfig.json
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter01\01 - HelloCS\bin\Debug\net5.0\01 - HelloCS.runtimeconfig.dev.json
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter01\01 - HelloCS\bin\Debug\net5.0\01 - HelloCS.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter01\01 - HelloCS\bin\Debug\net5.0\ref\01 - HelloCS.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter01\01 - HelloCS\bin\Debug\net5.0\01 - HelloCS.pdb
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter01\01 - HelloCS\obj\Debug\net5.0\01 - HelloCS.csprojAssemblyReference.cache
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter01\01 - HelloCS\obj\Debug\net5.0\01 - HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter01\01 - HelloCS\obj\Debug\net5.0\01 - HelloCS.AssemblyInfoInputs.cache
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter01\01 - HelloCS\obj\Debug\net5.0\01 - HelloCS.AssemblyInfo.cs
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter01\01 - HelloCS\obj\Debug\net5.0\01 - HelloCS.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter01\01 - HelloCS\obj\Debug\net5.0\01 - HelloCS.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter01\01 - HelloCS\obj\Debug\net5.0\ref\01 - HelloCS.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter01\01 - HelloCS\obj\Debug\net5.0\01 - HelloCS.pdb
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter01\01 - HelloCS\obj\Debug\net5.0\01 - HelloCS.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercise 3.2 -Explorer Loops and Overflow/1.0.0": {
+        "runtime": {
+          "Exercise 3.2 -Explorer Loops and Overflow.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise 3.2 -Explorer Loops and Overflow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
