@@ -85,6 +85,32 @@ namespace PeopleApp
 
             var thing2 = (bob.Name, bob.Children.Count); // C# 7.1 onwards can infer the names, in this instance .Name and .Count instead of .Item1 and .Item2
             WriteLine($"{thing2.Name} has {thing2.Count} children.");
+
+            (string fruitName, int fruitNumber) = bob.GetFruit(); // deconstructing tuples
+            WriteLine($"Deconstructed: {fruitName}, {fruitNumber}");
+
+            WriteLine(bob.SayHello());
+            WriteLine(bob.SayHello("Emily"));
+
+            WriteLine(bob.OptionalParameters());
+            WriteLine(bob.OptionalParameters("Jump!", 98.5));
+            WriteLine(bob.OptionalParameters(number: 52.7, command: "Hide!"));
+            WriteLine(bob.OptionalParameters("Poke!", active: false));
+
+            int a = 10;
+            int b = 20;
+            int c = 30;
+            WriteLine($"Before: a = {a}, b = {b}, c = {c}");
+            bob.PassingParameters(a, ref b, out c);
+            WriteLine($"After: a = {a}, b = {b}, c = {c}");
+
+            int d = 10;
+            int e = 20;
+            WriteLine($"Before: d = {d}, e = {e}, f doesn't exist yet");
+            // simplified C# 7.0 syntax for the out parameter
+            bob.PassingParameters(d, ref e, out int f);
+            WriteLine($"After: d = {d}, e = {e}, f = {f}");
+
         }
     }
 }
