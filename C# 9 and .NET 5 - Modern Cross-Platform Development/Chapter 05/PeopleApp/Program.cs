@@ -111,6 +111,80 @@ namespace PeopleApp
             bob.PassingParameters(d, ref e, out int f);
             WriteLine($"After: d = {d}, e = {e}, f = {f}");
 
+            var sam = new Person
+            {
+                Name = "Sam",
+                DateOfBirth = new DateTime(1972, 1, 27)
+            };
+            WriteLine(sam.Origin);
+            WriteLine(sam.Greeting);
+            WriteLine(sam.Age);
+
+            sam.FavouriteIceCream = "Chocolate Fudge";
+            WriteLine($"Sam's favourite ice-cream flavour is {sam.FavouriteIceCream}");
+            sam.FavouritePrimaryColour = "Red";
+            WriteLine($"Sam's favourite primary colour is {sam.FavouritePrimaryColour}");
+
+            sam.Children.Add(new Person {Name = "Charlie"});
+            sam.Children.Add(new Person {Name = "Ella"});
+            WriteLine($"Sam's first child is {sam.Children[0].Name}");
+            WriteLine($"Sam's second child is {sam.Children[1].Name}");
+            WriteLine($"Sam's first child is {sam[0].Name}");
+            WriteLine($"Sam's second child is {sam[1].Name}");
+
+            object[] passengers = {
+                new FirstClassPassenger {AirMiles = 1_419},
+                new FirstClassPassenger {AirMiles = 16_562},
+                new BusinessClassPassenger(),
+                new CoachClassPassenger {CarryOnKG = 25.7},
+                new CoachClassPassenger {CarryOnKG = 0}
+            };
+
+            foreach(object passenger in passengers)
+            {
+                decimal flightCost = passenger switch
+                {
+                    /* C# 8 syntax
+                    FirstClassPassenger p when p.AirMiles > 35000 => 1500M,
+                    FirstClassPassenger p when p.AirMiles > 15000 => 1750M,
+                    FirstClassPassenger _                         => 2000M,
+                    BusinessClassPassenger _                      => 1000M,
+                    CoachClassPassenger p when p.CarryOnKG < 10.0 => 500M,
+                    CoachClassPassenger _                         => 650M,
+                    _                                             => 800M */
+                    // C# 9 syntax
+                    FirstClassPassenger p => p.AirMiles switch
+                    {
+                        > 35000 => 1500M,
+                        > 15000 => 1750M,
+                        _       => 2000M
+                    },
+                    BusinessClassPassenger                        => 1000M,
+                    CoachClassPassenger p when p.CarryOnKG < 10.0 => 500M,
+                    CoachClassPassenger                           => 650M,
+                    _                                             => 800M
+                };
+                WriteLine($"Flight costs {flightCost:C} for {passenger}");
+            }
+
+            var Jeff = new ImmutablePerson
+            {
+                FirstName = "Jeff",
+                Surname = "Winger"
+            };
+
+            var car = new ImmutableVehicle
+            {
+                Brand = "Mazda MX-5 RF",
+                Color = "Soul Red Crystal Metallic",
+                Wheels = 4
+            };
+            var repaintedCar = car with { Color = "Polymetal Grey Metallic" };
+            WriteLine($"Original colour was {car.Color}, new color is {repaintedCar.Color}");
+
+            var oscar = new ImmutableAnimal("Oscar", "Labrador");
+            var (who, what) = oscar; // calls Deconstruct method
+            WriteLine($"{who} is {what}");
         }
     }
 }

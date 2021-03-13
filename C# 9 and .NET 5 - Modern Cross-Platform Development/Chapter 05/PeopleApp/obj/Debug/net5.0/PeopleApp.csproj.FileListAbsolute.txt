@@ -17,3 +17,5 @@ C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platfo
 C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 05\PeopleApp\obj\Debug\net5.0\ref\PeopleApp.dll
 C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 05\PeopleApp\obj\Debug\net5.0\PeopleApp.pdb
 C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 05\PeopleApp\obj\Debug\net5.0\PeopleApp.genruntimeconfig.cache
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 05\PeopleApp\bin\Debug\net5.0\PacktLibrary9.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 05\PeopleApp\bin\Debug\net5.0\PacktLibrary9.pdb

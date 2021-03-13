@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace Packt.Shared
 {
-    public class Person : System.Object
+    public partial class Person
     {
         // fields
         public string Name;
