@@ -1,0 +1,16 @@
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 07\DotNetCoreEverywhere\bin\Debug\net5.0\DotNetCoreEverywhere.exe
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 07\DotNetCoreEverywhere\bin\Debug\net5.0\DotNetCoreEverywhere.deps.json
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 07\DotNetCoreEverywhere\bin\Debug\net5.0\DotNetCoreEverywhere.runtimeconfig.json
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 07\DotNetCoreEverywhere\bin\Debug\net5.0\DotNetCoreEverywhere.runtimeconfig.dev.json
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 07\DotNetCoreEverywhere\bin\Debug\net5.0\DotNetCoreEverywhere.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 07\DotNetCoreEverywhere\bin\Debug\net5.0\ref\DotNetCoreEverywhere.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 07\DotNetCoreEverywhere\bin\Debug\net5.0\DotNetCoreEverywhere.pdb
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 07\DotNetCoreEverywhere\obj\Debug\net5.0\DotNetCoreEverywhere.csprojAssemblyReference.cache
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 07\DotNetCoreEverywhere\obj\Debug\net5.0\DotNetCoreEverywhere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 07\DotNetCoreEverywhere\obj\Debug\net5.0\DotNetCoreEverywhere.AssemblyInfoInputs.cache
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 07\DotNetCoreEverywhere\obj\Debug\net5.0\DotNetCoreEverywhere.AssemblyInfo.cs
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 07\DotNetCoreEverywhere\obj\Debug\net5.0\DotNetCoreEverywhere.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 07\DotNetCoreEverywhere\obj\Debug\net5.0\DotNetCoreEverywhere.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 07\DotNetCoreEverywhere\obj\Debug\net5.0\ref\DotNetCoreEverywhere.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 07\DotNetCoreEverywhere\obj\Debug\net5.0\DotNetCoreEverywhere.pdb
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 07\DotNetCoreEverywhere\obj\Debug\net5.0\DotNetCoreEverywhere.genruntimeconfig.cache

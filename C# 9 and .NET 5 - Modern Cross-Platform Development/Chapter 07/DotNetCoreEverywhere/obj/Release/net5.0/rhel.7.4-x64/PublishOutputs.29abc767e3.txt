@@ -1,0 +1,1 @@
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 07\DotNetCoreEverywhere\bin\Release\net5.0\rhel.7.4-x64\publish\DotNetCoreEverywhere
