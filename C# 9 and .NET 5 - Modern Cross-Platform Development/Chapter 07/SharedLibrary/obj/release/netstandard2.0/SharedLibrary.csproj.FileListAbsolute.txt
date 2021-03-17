@@ -1,0 +1,9 @@
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 07\SharedLibrary\bin\release\netstandard2.0\SharedLibrary.deps.json
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 07\SharedLibrary\bin\release\netstandard2.0\SharedLibrary.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 07\SharedLibrary\bin\release\netstandard2.0\SharedLibrary.pdb
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 07\SharedLibrary\obj\release\netstandard2.0\SharedLibrary.csprojAssemblyReference.cache
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 07\SharedLibrary\obj\release\netstandard2.0\SharedLibrary.AssemblyInfoInputs.cache
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 07\SharedLibrary\obj\release\netstandard2.0\SharedLibrary.AssemblyInfo.cs
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 07\SharedLibrary\obj\release\netstandard2.0\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 07\SharedLibrary\obj\release\netstandard2.0\SharedLibrary.dll
+C:\Users\Jamie\OneDrive\Projects\Github\C#\C# 9 and .NET 5 - Modern Cross-Platform Development\Chapter 07\SharedLibrary\obj\release\netstandard2.0\SharedLibrary.pdb

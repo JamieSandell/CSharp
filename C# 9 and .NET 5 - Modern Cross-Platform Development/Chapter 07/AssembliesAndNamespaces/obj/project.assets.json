@@ -1,11 +1,78 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "JamieSandell.CSdotnet.SharedLibrary/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/SharedLibrary.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SharedLibrary.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "JamieSandell.CSdotnet.SharedLibrary/5.0.0": {
+      "sha512": "R7qqYlOVGM4anl8ZQ9bOqhr6de996nA9cmd+mCButl91bQtEbK2uCKeVc3P1phSxrfoVVzuohOU31n4hy0003g==",
+      "type": "package",
+      "path": "jamiesandell.csdotnet.sharedlibrary/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "jamiesandell.csdotnet.sharedlibrary.5.0.0.nupkg.sha512",
+        "jamiesandell.csdotnet.sharedlibrary.nuspec",
+        "lib/netstandard2.0/SharedLibrary.dll",
+        "packt-csdotnet-sharedlibrary.png"
+      ]
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "JamieSandell.CSdotnet.SharedLibrary >= 5.0.0",
+      "newtonsoft.json >= 12.0.3"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\jammy\\.nuget\\packages\\": {}
@@ -13,11 +80,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jamie\\OneDrive\\Projects\\Github\\C#\\C# 9 and .NET 5 - Modern Cross-Platform Development\\Chapter 07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj",
+      "projectUniqueName": "c:\\Users\\Jamie\\OneDrive\\Projects\\Github\\C#\\C# 9 and .NET 5 - Modern Cross-Platform Development\\Chapter 07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj",
       "projectName": "AssembliesAndNamespaces",
-      "projectPath": "C:\\Users\\Jamie\\OneDrive\\Projects\\Github\\C#\\C# 9 and .NET 5 - Modern Cross-Platform Development\\Chapter 07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj",
+      "projectPath": "c:\\Users\\Jamie\\OneDrive\\Projects\\Github\\C#\\C# 9 and .NET 5 - Modern Cross-Platform Development\\Chapter 07\\AssembliesAndNamespaces\\AssembliesAndNamespaces.csproj",
       "packagesPath": "C:\\Users\\jammy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jamie\\OneDrive\\Projects\\Github\\C#\\C# 9 and .NET 5 - Modern Cross-Platform Development\\Chapter 07\\AssembliesAndNamespaces\\obj\\",
+      "outputPath": "c:\\Users\\Jamie\\OneDrive\\Projects\\Github\\C#\\C# 9 and .NET 5 - Modern Cross-Platform Development\\Chapter 07\\AssembliesAndNamespaces\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jammy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +112,16 @@
     "frameworks": {
       "net5.0": {
         "targetAlias": "net5.0",
+        "dependencies": {
+          "JamieSandell.CSdotnet.SharedLibrary": {
+            "target": "Package",
+            "version": "[5.0.0, )"
+          },
+          "newtonsoft.json": {
+            "target": "Package",
+            "version": "[12.0.3, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
