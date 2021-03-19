@@ -29,6 +29,22 @@ namespace WorkingWithText
             surname = fullName.Substring(startIndex:0, length: indexOfComma);
             firstName = fullName.Substring(startIndex: indexOfComma + 2);
             WriteLine($"{firstName} {surname}");
+
+            string company = "Microsoft";
+            bool startsWithM = company.StartsWith("M");
+            bool containsN = company.Contains("N");
+            WriteLine($"Starts with M: {startsWithM}, contains an N: {containsN}.");
+
+            string recombined = string.Join(" => ", citiesArray);
+            WriteLine(recombined);
+
+            string fruit = "Apples";
+            decimal price = 0.39M;
+            DateTime when = DateTime.Today;
+
+            WriteLine($"{fruit} cost {price:C} on {when:dddd}s.");
+            WriteLine(string.Format("{0} cost {1:C} on {2:dddd}s.",
+                fruit, price, when));
         }
     }
 }
